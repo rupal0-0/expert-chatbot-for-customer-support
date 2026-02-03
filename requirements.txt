@@ -1,0 +1,7 @@
+# Requirements for Support Chatbot
+pyDatalog>=0.17.1
+customtkinter>=5.2.0
+spacy>=3.0.0  # Optional, for enhanced entity extraction
+
+# To install spaCy language model (optional):
+# python -m spacy download en_core_web_sm
